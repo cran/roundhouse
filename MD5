@@ -1,0 +1,14 @@
+084f331ba30582f246dc5565be2e5da1 *DESCRIPTION
+eac3f8d6f38110de170a0a0e1de51516 *NAMESPACE
+a51b213b89659d971904930faf5ddec6 *NEWS.md
+3104bfa0d5352689437756c3cea92361 *R/kick.R
+026c0c99868898a45898efa39fa05ae7 *R/random_fact.R
+5986769e45f59c7f39fd272d9f31abec *man/fetch_categories.Rd
+885489d0213a1a57357b40e03ee308b3 *man/kick.Rd
+2ca46ecc45958c7cecdc1212c349155f *man/random_fact.Rd
+0a04ed6d29e2e56f8f30e38cdfd7247c *tests/testthat.R
+e472d5e17bb5e387f213e435b57188b1 *tests/testthat/test-all.R
+192ae25c5ba25208d0e236441fe6fad5 *tools/chuck-norris.png
+6873259451cc82c329135c874f6741a7 *tools/roundhouse-logo.R
+56644afcfa03c8029e044c5ac4aee07c *tools/roundhouse-logo.png
+cdae488404f05d5ddd22f9a529805649 *tools/roundhouse-logo.svg
