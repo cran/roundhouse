@@ -4,8 +4,16 @@
 \alias{kick}
 \title{Roundhouse kick}
 \usage{
-kick(text = NULL, type = 1, width = 35, size = 20,
-  color = "white", fps = NULL, loop = 0, ...)
+kick(
+  text = NULL,
+  type = 1,
+  width = 35,
+  size = 20,
+  color = "white",
+  fps = NULL,
+  loop = 0,
+  ...
+)
 }
 \arguments{
 \item{text}{Character string specifying the text to display with the
